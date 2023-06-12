@@ -2,6 +2,9 @@
 
 Date : March | 10 | 2023
 
+# Documentation
+ <a href="https://github.com/namcodes/Cemetery/raw/main/documentation.docx">Download Me!</a>
+ 
 # Preview
 <div align="center">
   <img src="preview.png" alt="preview"/>
